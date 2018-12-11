@@ -1,0 +1,2 @@
+virtualenv==16.1.0
+oci-cli==2.4.39
